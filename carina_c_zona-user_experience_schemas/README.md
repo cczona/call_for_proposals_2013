@@ -28,6 +28,8 @@ I gave a related talk, "Schemas for the Real World" at GoGaRuCo 2012. [Video, sl
   > "Carina Zona challenged us to rethink our schemas to better reflect the real world. Her insightful session highlighted the assumptions we make about the world, particularly about relationships and sexual identity, through our technical decisions. When designing our applications, we should focus on modeling the world as it is, and worry less about how we’ll store and query the data. We can extrapolate out this idea further when thinking about software design. Instead of viewing our applications as interfaces to a datastore, they should be interfaces to our world. Storing the data is the easy part, writing our applications so that they are flexible to our dynamic world is much harder."
 —[New Relic](http://blog.newrelic.com/2012/10/22/the-who-and-what-of-gogaruco-2012)
 
+> "...surprisingly mind-expanding...a breath of fresh air..." [Avdi Grimm](http://devblog.avdi.org/2012/11/19/on-britruby/)
+
   > "Inspirational challenges to the community"
 —[Alex Chaffee](https://twitter.com/alexch/status/248118835130019843)
 
